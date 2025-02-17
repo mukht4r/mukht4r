@@ -14,9 +14,12 @@ Fill your life with experiences so you always have a great story to tell.
 <p>
  
 ### <summary><strong>Let's connect!</strong></summary>
-<a href="https://twitter.com/Mukh7412">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+<a href="https://x.com/Mukh7412">
+  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
 </a>
 <a href="https://www.instagram.com/mukh_ar/">
   <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://https://api.whatsapp.com/send?phone=6285159132577/">
+  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.now.sh/whatsapp/495f7e" />
 </a>
